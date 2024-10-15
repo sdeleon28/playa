@@ -1,4 +1,4 @@
-# playa
+# 🌴😎🌴 playa 🌴😎🌴
 
 Comfy command line audio player
 
