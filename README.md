@@ -7,7 +7,7 @@ Comfy command line audio player
 ```
 echo ~/tmp/song1.wav > playlist.txt
 echo ~/tmp/song2.wav >> playlist.txt
-python playa -f playlist.txt
+python playa.py -f playlist.txt
 ```
 
 Then when the player is running:
